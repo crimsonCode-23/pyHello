@@ -3,3 +3,5 @@
 highly recommended resources:  
 codecademy's free python course
 https://www.geeksforgeeks.org/building-a-discord-bot-in-python/ 
+
+- doing cool stuff!
