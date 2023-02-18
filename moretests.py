@@ -14,4 +14,9 @@ from nextcord.ext import commands
 bot = commands.Bot(command_prefix='!')
 
 @bot.event
-async
+async def on_ready():
+    print(f'Logged in as {bot.user.name}')
+
+@bot.command(name='Hello')
+   async def hello(ctx):
+       await
