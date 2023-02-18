@@ -1,0 +1,56 @@
+msg = "pleaseWork"
+print(msg)
+# practice repo for the hackathon. Feel free to pull, push, whatever! 
+print("hi")
+TOKEN = 'MTA3NjYxNTcwNTY2NDk0NjIwNg.GRJixX.6TlklQxbyMguHfWSGLCW30AQd2uAJZoUsP1h5I'
+print("hi")
+
+BE425: {Assignments: .2
+        Homeworks: .15
+        Examinations: .45
+        Final:.18}
+
+CPTS121:   {Assignments: .3
+        Homeworks: .15
+        Examinations: .2
+        Final:.2
+        Quizes:.08
+        Labs: .2
+        Participation: .02}
+
+EE261:
+ {Assignments: 0
+        Homeworks: .16
+        Examinations: .54
+        Final:.21
+        Quizes: 
+        Labs: 0
+        Participation: .09
+}
+
+CPTS1   
+    {Assignments: .3
+        Homeworks: .15
+        Examinations: .2
+        Final:.2
+        Quizes:.08
+        Labs: .2
+        Participation: .02}
+
+
+
+
+GPA: input()
+
+print(Enter Class Code:
+      Class_Code1= input()
+      Class_Code2= input()")
+
+      for i=1:5
+      Assignments=Class_code1(1)
+Labs=Class_code1(2)
+Assignments=Class_code(3)
+Exams=Class_code(3)
+Final=Class_code(4)
+end
+
