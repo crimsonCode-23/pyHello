@@ -1,4 +1,5 @@
-import nextcord 
+import nextcord
+
 from nextcord.ext import commands
 
 TESTING_GUILD_ID = 123456789  # Replace with your guild ID
@@ -13,4 +14,6 @@ async def on_ready():
 async def hello(interaction: nextcord.Interaction):
     await interaction.send("Hello!")
 
-bot.run('your token here')
+bot.run('MTA3NjYxNTcwNTY2NDk0NjIwNg.GRJixX.6TlklQxbyMguHfWSGLCW30AQd2uAJZoUsP1h5I')
+
+print 'run' 

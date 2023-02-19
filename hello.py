@@ -6,3 +6,4 @@ TOKEN = 'MTA3NjYxNTcwNTY2NDk0NjIwNg.GRJixX.6TlklQxbyMguHfWSGLCW30AQd2uAJZoUsP1h5
 print("hi")
 
 print("hello")
+install 
