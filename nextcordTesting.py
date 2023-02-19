@@ -16,3 +16,4 @@ async def hello(interaction: nextcord.Interaction):
 
 bot.run('MTA3NjYxNTcwNTY2NDk0NjIwNg.GRJixX.6TlklQxbyMguHfWSGLCW30AQd2uAJZoUsP1h5I')
 
+print 'run' 
