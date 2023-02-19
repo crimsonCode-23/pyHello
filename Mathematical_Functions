@@ -34,7 +34,46 @@ CPTS1
         Labs: .2
         Participation: .02}
 
+DATA 115: 
+     {Description: An introductory to the field of Data Analytics that will draw on recent
+     and relevant materials from statistics, mathematics, and computer science, 
+     as well as many application domains.
+     
+        Participation: .1
+        Weekly Assignments: .3
+        Midterm: .2
+        Final Project: .4
 
+        Class Date: Monday, Wednesday, Friday 11:10am ~ 12:00pm
+     }
+
+
+MATH 225:
+     {Description: overview of linear algebraic concepts and techniques, 
+     as well as exposure to the linear algebra behind modern applications 
+     such as machine learning, artificial intelligence, and economic models.
+      
+      Homework and Computer Projects: .35
+      Applications Project: .05
+      Midterm: .3
+      Final Exam: .3
+      
+      Class Date: Online course
+     }
+
+
+Stat 360:
+     {Description: Probability models, sample spaces, random variables, distributions, moments, 
+comparative experiments, tests, correlation, and regression in engineering applications.
+
+     Written Homework: .22
+     Group Projects: .06
+     Exam One: .2
+     Exam Two: .2
+     Final Exam: .32
+
+     Class Date: Monday, Wednesday, Friday 1:10pm ~ 2:00pm
+     }
 
 
 GPA: input()
